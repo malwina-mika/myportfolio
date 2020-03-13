@@ -286,7 +286,7 @@ li {
   margin: 1rem;
 }
 
-.fa-github-square:hover, .fa-linkedin:hover {
+.nav-list i:hover {
   color: #fd57bf;
 }
 
