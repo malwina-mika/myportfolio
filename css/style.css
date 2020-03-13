@@ -323,8 +323,8 @@ li {
 .icon-container {
   width: 10rem;
   height: 10rem;
-  border: 3px solid #db82c8;
-  background-color: #d0cbe0;
+  border: 1px solid #d0cbe0;
+  background-color: #db82c8;
   margin-bottom: 2rem;
   display: -ms-flexbox;
   display: flex;
