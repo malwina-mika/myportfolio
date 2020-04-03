@@ -4,7 +4,7 @@ $font-two: 'Josefin Sans', sans-serif;
 
 $background-color: #1e272e;
 $pink: #fd57bf;
-$light-pink: #db82c8;
+$light-pink: #ffb8b8;
 $blue: #3883ff;
 $light: rgb(208, 203, 224);
 $gradient:  linear-gradient(to top, #fffdfe, $pink);
@@ -310,6 +310,7 @@ li{
   height: 10rem;
   border: 1px solid $light;
   background-color: $light-pink;
+  opacity: 0.8;
   margin-bottom: 2rem;
   display: flex;
   transform: rotate(45deg);
